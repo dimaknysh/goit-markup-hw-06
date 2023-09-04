@@ -961,7 +961,7 @@ ol {
   letter-spacing: 0.02em;
   color: var(--slatecolor);
 }
-/* Overlay text */
+
 .overlay {
   position: absolute;
   top: 0;
@@ -1209,6 +1209,7 @@ textarea::placeholder {
 .menu-toggle {
   display: flex;
   justify-content: center;
+
 
   background-color: transparent;
   cursor: pointer;
